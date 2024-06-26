@@ -8,7 +8,7 @@ Technologies Used
   
 How to View
 
-You can explore the Reestar landing page by visiting 
+You can explore the Reestar landing page by visiting  https://aswin-pro.github.io/Reestar-Landingpage/
 
 Contributing
 
