@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.container{
+    text-align: center;
+}
+.section-three__desc{
+     margin-left: auto;
+     margin-right: auto;
+}
+.section-two__imagecontainer{
+    display: inline-block;
+}
+.section-two__imagedesc{
+    width: 200px;
+}
+.section-two__btn{
+    background-color: #E03646;
+    font-size: 18px;
+    color: white;
+    border: none;
+    padding: 5px 10px 5px  10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.section-two__btn:hover{
+    border-radius: 12px;
+}
+.section-one,.section-two,.section-three{
+    margin-top: 30px;
+}
+.section-one{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    padding: 10px 10px;
+}
+.section-three__input,.section-three__names{
+    padding: 5px 15px 5px 15px;
+    margin: 10px;
+} 
+.section-four button{
+    padding: 5px 150px 5px 150px;
+    font-size: 18px;
+    margin-top: 15px;
+    background-color: #E03646;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.section-four,.section-three{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    color: rgb(7, 7, 7);
+}
+.section-five{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: #F4FBF8;
+}
