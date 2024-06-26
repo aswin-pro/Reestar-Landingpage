@@ -14,6 +14,7 @@ body{
 }
 .section-two__imagecontainer{
     display: inline-block;
+    margin-bottom: 20px;
 }
 .section-two__imagedesc{
     width: 200px;
